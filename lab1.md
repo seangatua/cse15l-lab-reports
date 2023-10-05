@@ -49,5 +49,5 @@ The output is not an error; ls listed what was in the directory, which was the c
 ![Image](cat (with file).png)
 
 The working directory is /home
-The output of the command is the contents of the README file
+The output of the command is the contents of the README file/
 The output is correct; cat printed the contents of the file onto the terrminal
