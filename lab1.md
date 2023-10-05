@@ -1,4 +1,4 @@
-Sean Gatua
+Sean Gatua\
 ![Image](cd(no argument).png)
 
 The working directory when the cd command was run was /home/lecture1\
