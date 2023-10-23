@@ -17,3 +17,5 @@ The values don't change because the handleRequest only gets passed a URI object 
 ![Image](ieng6Login.png)
 
 
+I learned new commands: scp and mkdir. The scp command copies files or directories between local and remote systems or between two remote systems. The mkdir command makes a brand new directory. I learned how to adjust the new queries on servinng a webiste, from "add", "add-message", "increment". The git clone method has been incredibly effective when it comes to downloading the files from wavelet.
+
