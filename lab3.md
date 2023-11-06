@@ -1,11 +1,12 @@
 **Failure Inducing Input**
-@Test
-  public void max1() {
-    int input1 = 1;
-    int input2 = 2;
-    lab3.max(1,2);
-    assertEquals(input2, lab3.max(input1, input2));
-  }
+
+    @Test
+    public void max1() {
+      int input1 = 1;
+      int input2 = 2;
+      lab3.max(1,2);
+      assertEquals(input2, lab3.max(input1, input2));
+    }
 
 **Resulted Symptom**
 ![Image](failure.png)
