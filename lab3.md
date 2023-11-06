@@ -119,7 +119,7 @@ Allows for the efficient searching of .sh files
 
 Allows for the efficient searching of .java files
 
-8.    find ../docsearch/ -name "*.md"
+8.        find ../docsearch/ -name "*.md"
 
 **OUTPUT**
 
@@ -128,7 +128,7 @@ Allows for the efficient searching of .java files
 Allows for the efficient searching of .md files
 
 
-**CITED SOURCE**
+**CITED SOURCE**\
 **
-grep command in Unix/Linux**
+grep command in Unix/Linux**\
 https://www.geeksforgeeks.org/grep-command-in-unixlinux/
