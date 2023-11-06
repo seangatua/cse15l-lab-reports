@@ -8,10 +8,13 @@
   }
 
 **Resulted Symptom**
+![Image](failure.png)
+![Image](failure2.png)
 
 
-  **Associated Code**
-  public class lab3 {
+**Associated Code**
+
+public class lab3 {
     static int max(int num1, int num2) {
         if(num1 > num2){
             return num1;
@@ -20,7 +23,6 @@
             return -num2;
         }
         else{
-
             return num1;
         }
       }
@@ -32,7 +34,10 @@
     int input2 = 1;
     lab3.max(input1, input2);
     assertEquals(input1, lab3.max(input1, input2));
-  }
+}
+
+**Resulted Symptom**
+![Image](success.png)
 
 **Associated Code**
 public class lab3 {
@@ -44,7 +49,6 @@ public class lab3 {
             return -num2;
         }
         else{
-
             return num1;
         }
       }
