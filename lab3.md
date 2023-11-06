@@ -58,7 +58,7 @@
     }
     
 **Buggy Code**
-![Image](buggyCode.png)
+![Image](bugCode.png)
 
 **Correct Code**
 ![Image](correctCode.png)
