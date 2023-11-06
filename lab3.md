@@ -63,4 +63,6 @@
 **Correct Code**
 ![Image](correctCode.png)
 
+**WHY THE ISSUE IS FIXED**
 
+The removal of the - sign in the second conditional provides that num2 will be larger than num1, because if the - sign remained, num2 will always be less than num1
