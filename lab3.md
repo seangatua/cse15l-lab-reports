@@ -56,4 +56,11 @@
         }
       }
     }
+    
+**Buggy Code**
+![Image](buggyCode.png)
+
+**Correct Code**
+![Image](correctCode.png)
+
 
