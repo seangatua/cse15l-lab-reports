@@ -28,29 +28,31 @@
          }
     }
 **Successful Code**
-@Test
-    public void max2() {
+
+        @Test
+        public void max2() {
           int input1 = 2;
           int input2 = 1;
           lab3.max(input1, input2);
-      assertEquals(input1, lab3.max(input1, input2));
-  }
+          assertEquals(input1, lab3.max(input1, input2));
+      }
 
 **Resulted Symptom**
 ![Image](success.png)
 
 **Associated Code**
-public class lab3 {
-  static int max(int num1, int num2) {
-      if(num1 > num2){
-          return num1;
-      }
-      else if(num2 > num1){
-          return -num2;
-      }
-      else{
-          return num1;
+
+    public class lab3 {
+      static int max(int num1, int num2) {
+        if(num1 > num2){
+            return num1;
+        }
+        else if(num2 > num1){
+            return -num2;
+        }
+        else{
+            return num1;
+        }
       }
     }
-}
 
