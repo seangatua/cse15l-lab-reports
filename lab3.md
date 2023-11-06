@@ -1,4 +1,4 @@
-**SEAN GATUA**\
+**SEAN GATUA**
 
 **PART 1**
 
