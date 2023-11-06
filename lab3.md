@@ -79,4 +79,56 @@ The removal of the - sign in the second conditional provides that num2 will be l
 3. -i command line option ignores case sensitivities for all strings
 4. -c command line option returns the number of times a string matches in other files
 
-5. 
+5.     find ../docsearch/ -name "*.txt"
+**OUTPUT**
+
+        ../docsearch//technical/biomed/1471-230X-2-17.txt
+        ../docsearch//technical/biomed/1477-5956-1-1.txt
+        ../docsearch//technical/biomed/1471-2156-4-9.txt
+        ../docsearch//technical/biomed/1471-2431-2-12.txt
+        ../docsearch//technical/biomed/ar328.txt
+        ../docsearch//technical/biomed/1471-2210-3-1.txt
+        ../docsearch//technical/biomed/1471-2121-4-5.txt
+        ../docsearch//technical/biomed/1471-2350-2-8.txt
+        ../docsearch//technical/biomed/1471-2202-3-17.txt
+        ../docsearch//technical/biomed/1471-2407-1-13.txt
+        ../docsearch//technical/biomed/bcr605.txt
+        ../docsearch//technical/biomed/1476-069X-2-9.txt
+        ../docsearch//technical/biomed/1478-1336-1-3.txt
+        ../docsearch//technical/biomed/1471-2164-2-4.txt
+        ../docsearch//technical/biomed/1471-2210-1-3.txt
+        ../docsearch//technical/biomed/1476-9433-1-3.txt
+        ../docsearch//technical/biomed/1471-2334-1-13.txt
+
+Allows for the efficient searching of .txt files
+
+6.     find ../docsearch/ -name "*.sh"
+
+**OUTPUT**
+
+        ../docsearch//count-txts.sh
+
+Allows for the efficient searching of .sh files
+
+7.     find ../docsearch/ -name "*.java"
+**OUTPUT**
+
+    ../docsearch//DocSearchServer.java
+    ../docsearch//Server.java
+    ../docsearch//TestDocSearch.java
+
+Allows for the efficient searching of .java files
+
+8.    find ../docsearch/ -name "*.md"
+
+**OUTPUT**
+
+    ../docsearch//README.md
+    
+Allows for the efficient searching of .md files
+
+
+**CITED SOURCE**
+**
+grep command in Unix/Linux**
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/
