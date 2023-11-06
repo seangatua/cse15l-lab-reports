@@ -1,3 +1,5 @@
+**PART 1**
+
 **Failure Inducing Input**
 
     @Test
@@ -66,3 +68,15 @@
 **WHY THE ISSUE IS FIXED**
 
 The removal of the - sign in the second conditional provides that num2 will be larger than num1, because if the - sign remained, num2 will always be less than num1
+
+
+**PART 2**
+
+    grep
+
+1. -l command line option lists filenames only (no directories)
+2. -r command line option searches recursively for a string in every directories
+3. -i command line option ignores case sensitivities for all strings
+4. -c command line option returns the number of times a string matches in other files
+
+5. 
