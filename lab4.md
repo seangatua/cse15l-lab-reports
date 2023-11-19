@@ -36,12 +36,20 @@ the first command was to enter the lab7 directory, ls was to see if there was a 
     typed "vim ListExamples.java" to enter the code needed to be changed
     typed "i" to enter INSERT MODE and changed index1 --> index2, typed :wq to save and quit
 
-the first command was to enter the .java file needed to be changed, "i" was to be able to change the wrong code, :wq was to save and quit, and bash test.sh was to see if the code had been successfully changed and the tests ran as expected
+the first command was to enter the .java file needed to be changed, "i" was to be able to change the wrong code, :wq was to save and quit
 
 **STEP 8**
 
 ![Image](step7_3.png)
 
     typed bash test.sh to confirm tests are now successful
+bash test.sh was to see if the code had been successfully changed and the tests ran as expected
+
+**STEP 9**
+
+![Image](step9.png)
+
+
+    
 
     
