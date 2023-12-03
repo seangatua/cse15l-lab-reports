@@ -21,11 +21,11 @@ DIRECTORY: ~/Documents/GitHub/week9/lab9test\
 
 Fix needed to make was changing the return value to\
 
-    return fractional
+    return fractional;
     
   instead of
   
-    return decimal-fractional
+    return decimal-fractional;
 
 ![Image](lab9testPreFix.png)
 
