@@ -17,5 +17,20 @@ Hi (so,so), have you tried using print statements for your original function? Or
 
 Instead of returning the fractional portion, I've programed the function to return the difference of decimal portion and the fractional.\
 That is why the function returns a double value with whole digits instead of a double value less than or equal to 0.\
+DIRECTORY: ~/Documents/GitHub/week9/lab9test\
+
+Fix needed to make was changing the return value to\
+
+    return fractional
+    
+  instead of
+  
+    return decimal-fractional
+
+![Image](lab9testPreFix.png)
+
+////INCLUDE THE REFLECTION
+
+
 
 
