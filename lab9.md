@@ -2,7 +2,7 @@
 
 **INITIAL ERROR**\
 
-![Image](cd(lab9bugssymptoms.png)
+![Image](cd(lab9bugsymptoms.png)
 
 I had a question about my code. I'm trying to write a program that returns the fractional part of a decimal. Right now, my tests are failing and I've rechecked my code multiplle times and still can't understand why this is happening.
 
