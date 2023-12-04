@@ -4,7 +4,7 @@
 
 ![Image](lab9bugsymptoms.png)
 
-I had a question about my code. I'm trying to write a program that returns the fractional part of a decimal. Right now, my tests are failing and I've rechecked my code multiplle times and still can't understand why this is happening.
+I had a question about my code. I'm trying to write a program that returns the fractional part of a decimal. Right now, my tests are failing and I've rechecked my code multiple times and still can't understand why this is happening.
 
 Hi, have you tried using print statements for your original function? Or possibly tried jdb to see what is happening underneath the hood?
 
@@ -17,8 +17,8 @@ Hi, have you tried using print statements for your original function? Or possibl
 
 
 
-Instead of returning the fractional portion, I've programed the function to return the difference of decimal portion and the fractional.\
-That is why the function returns a double value with whole digits instead of a double value less than or equal to 0.\
+Instead of returning the fractional portion, I've programmed the function to return the difference of decimal portion and the fractional.\
+That is why the function returns a double value with a whole digit instead of a double value less than or equal to 0.\
 
 DIRECTORY: ~/Documents/GitHub/week9/lab9test.java\
 JAVA FILE: ~/lab9test.java\
