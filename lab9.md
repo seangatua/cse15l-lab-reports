@@ -15,10 +15,16 @@ Hi, have you tried using print statements for your original function? Or possibl
 ![Image](lab9Error2.png)
 
 
+
+
 Instead of returning the fractional portion, I've programed the function to return the difference of decimal portion and the fractional.\
 That is why the function returns a double value with whole digits instead of a double value less than or equal to 0.\
+
 DIRECTORY: ~/Documents/GitHub/week9/lab9test.java\
-FILE: ~/lab9test.java
+JAVA FILE: ~/lab9test.java\
+BASH SCRIPT: ~/test.sh\
+
+**FIXING ERROR**\
 
 Fix needed to make was changing the return value to\
 
@@ -27,6 +33,8 @@ Fix needed to make was changing the return value to\
   instead of
   
     return decimal-fractional;
+
+**PRE-FIX FILE**
 
 ![Image](lab9testPreFix.png)
 
