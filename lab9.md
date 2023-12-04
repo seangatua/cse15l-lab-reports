@@ -36,19 +36,19 @@ Fix needed to make was changing the return value to\
 
 **PRE-FIX FILES**\
 
-File With Function
+File With Function\
 ![Image](lab9testPreFix.png)\
 
-Test(s) File
+Test(s) File\
 ![Image](lab9testPreFix2.png)\
 
 
 **POST-FIX FILES**\
 
-File With Function
+File With Function\
 ![Image](lab9testPostFix.png)\
 
-Test(s) File
+Test(s) File\
 ![Image](lab9testPreFix2.png)\
 
 \\\\\
