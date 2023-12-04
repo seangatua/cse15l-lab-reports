@@ -1,6 +1,6 @@
-**SEAN GATUA**\
+**SEAN GATUA**
 
-**INITIAL ERROR**\
+**INITIAL ERROR**
 
 ![Image](lab9bugsymptoms.png)
 
@@ -8,7 +8,7 @@ I had a question about my code. I'm trying to write a program that returns the f
 
 Hi, have you tried using print statements for your original function? Or possibly tried jdb to see what is happening underneath the hood?
 
-**COMMAND LINE OUTPUTS**\
+**COMMAND LINE OUTPUTS**
 
 
 ![Image](lab9Error1.png)
@@ -24,7 +24,7 @@ DIRECTORY: ~/Documents/GitHub/week9/lab9test.java\
 JAVA FILE: ~/lab9test.java\
 BASH SCRIPT: ~/test.sh\
 
-**FIXING ERROR**\
+**FIXING ERROR**
 
 Fix needed to make was changing the return value to\
 
@@ -34,7 +34,7 @@ Fix needed to make was changing the return value to\
   
     return decimal-fractional;
 
-**PRE-FIX FILES**\
+**PRE-FIX FILES**
 
 File With Function\
 ![Image](lab9testPreFix.png)\
@@ -43,7 +43,7 @@ Test(s) File\
 ![Image](lab9testPreFix2.png)\
 
 
-**POST-FIX FILES**\
+**POST-FIX FILES**
 
 File With Function\
 ![Image](lab9testPostFix.png)\
@@ -57,7 +57,5 @@ Test(s) File\
 **REFLECTION**
 
 The thing I enjoyed was the use of a debugger using the command line through the jdb <filename> command. I was always of the impression that I needed to have an IDE available and have the necessary extentions downloaded to thoroughly parse through my program, searching for errors. All jdb requires is setting a breakpoint where you want the program to stop running at, and call "locals" which will display the variables in that scope and their values. Additionally, using other commands withing jdb such as step, allows for accessing functions by peeking under the hood to what is happening when I pass a value or reference and how it is being modified. This includes what is returned as a result of my function considering if it isn't void.
-
-
 
 
