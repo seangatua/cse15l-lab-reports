@@ -34,9 +34,13 @@ Fix needed to make was changing the return value to\
   
     return decimal-fractional;
 
-**PRE-FIX FILE**
+**PRE-FIX FILE**\
 
-![Image](lab9testPreFix.png)
+File With Function
+![Image](lab9testPreFix.png)\
+
+Test(s) File
+![Image](lab9testPreFix2.png)\
 
 \\\\\
 
